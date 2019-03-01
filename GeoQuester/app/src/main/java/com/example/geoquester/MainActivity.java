@@ -83,14 +83,6 @@ public class MainActivity extends AppCompatActivity {
 
                 intent.putExtra("CITY", parcel);
                 startActivity(intent);
-//                Intent intent = new Intent(this, WeatherResultActivity.class);
-//                temperature.setText();
-//                fellingTemperature.setText();
-//                pressure.setText();
-//                humidity.setText();
-//                rainfall.setText();
-//                windSpeed.setText();
-//                windDirection.setText();
             }
         });
     }
