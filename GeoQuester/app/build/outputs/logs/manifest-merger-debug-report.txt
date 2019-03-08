@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\b3c8fdacaa6a0977595a796c37dc8cbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\dc6310384edf0cc24c51c2c6c9fce2f0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\e958c992df57dac2a6f89f7ae42c240b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\0667a6ec313668c15447701bc08cd828\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\e076044c7c32b50b4bea92fb483c9cbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\adc5b298db1a7e1c6f9c6f9fa06bcc49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\518b1557445397ac41f20016f9e596c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\952795750ef96d71d90f6d9cf9f43c12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\ac3502bc4ca43ad0b50777250d55b49d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\8a17673bfc344b03548ac627b96cb9bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\d607e0e7aa7f0e52a677e7eeea1992fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\b3f0cfb50842092e03dee1995dc03761\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\6c6a710cf8321f7763c9a112ea6ac990\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\4b52f1489a662e5b5160d791afb40b3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\eeef572d802013678bd8de4fc858c892\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\c77a828ab788ee6ae6ae464be2c5eb50\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\f0b3ba6af2c994b56395df3ab105012d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\f5339022a12c156d275a4e3853ea8579\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\3d47f9e9238ff9108b7f8e25b55b922e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\0a0d1606f4aed9c4ce9cc99cf6214dbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\8711384aa5039764f29b18bac70229c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\69d26f01ba75e1322f83db471c7c7816\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\2e298cfb2db6356786ef9c19e60827c6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\06a9c2921970a1bff5edd7d19bb01a69\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\1b95d5aa2837b4325340989b5a3f945b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\cd07e84b4a4b2de02e78bb6e9e9322b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\c9e905ea52223ea0093db2f1a8c0b2ea\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:6:18-37
+application
+ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\dc6310384edf0cc24c51c2c6c9fce2f0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\dc6310384edf0cc24c51c2c6c9fce2f0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\c77a828ab788ee6ae6ae464be2c5eb50\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\c77a828ab788ee6ae6ae464be2c5eb50\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\f0b3ba6af2c994b56395df3ab105012d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\f0b3ba6af2c994b56395df3ab105012d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\c77a828ab788ee6ae6ae464be2c5eb50\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.geoquester.MainActivity
+ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.geoquester.WeatherResultActivity
+ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml:23:19-56
+uses-sdk
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\b3c8fdacaa6a0977595a796c37dc8cbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\b3c8fdacaa6a0977595a796c37dc8cbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\dc6310384edf0cc24c51c2c6c9fce2f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\dc6310384edf0cc24c51c2c6c9fce2f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\e958c992df57dac2a6f89f7ae42c240b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\e958c992df57dac2a6f89f7ae42c240b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\0667a6ec313668c15447701bc08cd828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\0667a6ec313668c15447701bc08cd828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\e076044c7c32b50b4bea92fb483c9cbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\e076044c7c32b50b4bea92fb483c9cbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\adc5b298db1a7e1c6f9c6f9fa06bcc49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\adc5b298db1a7e1c6f9c6f9fa06bcc49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\518b1557445397ac41f20016f9e596c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\518b1557445397ac41f20016f9e596c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\952795750ef96d71d90f6d9cf9f43c12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\952795750ef96d71d90f6d9cf9f43c12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\ac3502bc4ca43ad0b50777250d55b49d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\ac3502bc4ca43ad0b50777250d55b49d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\8a17673bfc344b03548ac627b96cb9bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\8a17673bfc344b03548ac627b96cb9bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\d607e0e7aa7f0e52a677e7eeea1992fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\d607e0e7aa7f0e52a677e7eeea1992fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\b3f0cfb50842092e03dee1995dc03761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\b3f0cfb50842092e03dee1995dc03761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\6c6a710cf8321f7763c9a112ea6ac990\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\6c6a710cf8321f7763c9a112ea6ac990\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\4b52f1489a662e5b5160d791afb40b3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\4b52f1489a662e5b5160d791afb40b3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\eeef572d802013678bd8de4fc858c892\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\eeef572d802013678bd8de4fc858c892\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\c77a828ab788ee6ae6ae464be2c5eb50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\c77a828ab788ee6ae6ae464be2c5eb50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\f0b3ba6af2c994b56395df3ab105012d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\f0b3ba6af2c994b56395df3ab105012d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\f5339022a12c156d275a4e3853ea8579\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\f5339022a12c156d275a4e3853ea8579\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\3d47f9e9238ff9108b7f8e25b55b922e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\3d47f9e9238ff9108b7f8e25b55b922e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\0a0d1606f4aed9c4ce9cc99cf6214dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\0a0d1606f4aed9c4ce9cc99cf6214dbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\8711384aa5039764f29b18bac70229c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\8711384aa5039764f29b18bac70229c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\69d26f01ba75e1322f83db471c7c7816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\69d26f01ba75e1322f83db471c7c7816\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\2e298cfb2db6356786ef9c19e60827c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\2e298cfb2db6356786ef9c19e60827c6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\06a9c2921970a1bff5edd7d19bb01a69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\06a9c2921970a1bff5edd7d19bb01a69\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\1b95d5aa2837b4325340989b5a3f945b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\1b95d5aa2837b4325340989b5a3f945b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\cd07e84b4a4b2de02e78bb6e9e9322b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\cd07e84b4a4b2de02e78bb6e9e9322b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\c9e905ea52223ea0093db2f1a8c0b2ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Vadim\.gradle\caches\transforms-2\files-2.1\c9e905ea52223ea0093db2f1a8c0b2ea\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vadim\AndroidStudioProjects\GeoQuester\app\src\main\AndroidManifest.xml
