@@ -1,0 +1,4 @@
+#Fri Mar 01 15:43:32 YEKT 2019
+base.0=C\:\\Users\\Vadim\\AndroidStudioProjects\\GeoQuester\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
